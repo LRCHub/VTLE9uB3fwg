@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "trust me",
+  "base_artist": "sunkis 宋秉勤",
+  "createdAt": "2026-03-05T12:30:44.077221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Don't Trust Me At All",
+      "artist": "范曉萱",
+      "has_synced": true,
+      "path": "select/01_You_Don't_Trust_Me_At_All_范曉萱.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You don't trust me at all",
+      "artist": "范晓萱",
+      "has_synced": true,
+      "path": "select/02_You_don't_trust_me_at_all_范晓萱.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/03_Trust_Me_Guru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Guru's Jazzmatazz",
+      "has_synced": true,
+      "path": "select/04_Trust_Me_Guru's_Jazzmatazz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/05_Trust_Me_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trust Me I Lie",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/06_Trust_Me_I_Lie_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/07_Trust_Me_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DONT! - TRUST ME",
+      "artist": "Lancey Foux",
+      "has_synced": false,
+      "path": "select/08_DONT!_-_TRUST_ME_Lancey_Foux.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trust Me (feat. Ty Dolla $ign)",
+      "artist": "Bhad Bhabie feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/09_Trust_Me_(feat._Ty_Dolla_$ign)_Bhad_Bhabie_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trust Me (feat. Ty Dolla $ign)",
+      "artist": "Bhad Bhabie",
+      "has_synced": true,
+      "path": "select/10_Trust_Me_(feat._Ty_Dolla_$ign)_Bhad_Bhabie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trust Me to Open My Mouth",
+      "artist": "Squeeze",
+      "has_synced": true,
+      "path": "select/11_Trust_Me_to_Open_My_Mouth_Squeeze.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "The Motels",
+      "has_synced": false,
+      "path": "select/12_Trust_Me_The_Motels.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Trust Me Danny",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": true,
+      "path": "select/13_Trust_Me_Danny_ILOVEMAKONNEN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Trust Me (Benny Blanco Remix)",
+      "artist": "3OH!3 feat. Kid Cudi",
+      "has_synced": false,
+      "path": "select/14_Don't_Trust_Me_(Benny_Blanco_Remix)_3OH!3_feat._Kid_Cudi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Trust Me",
+      "artist": "3OH!3",
+      "has_synced": true,
+      "path": "select/15_Don't_Trust_Me_3OH!3.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Trust Me (Benny Blanco Remix) (Feat. Kid Cudi)",
+      "artist": "3OH!3",
+      "has_synced": false,
+      "path": "select/16_Don't_Trust_Me_(Benny_Blanco_Remix)_(Feat._Kid_Cudi)_3OH!3.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "The Fray",
+      "has_synced": true,
+      "path": "select/17_Trust_Me_The_Fray.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Trust Me",
+      "artist": "Susanne Sundfør",
+      "has_synced": true,
+      "path": "select/18_Trust_Me_Susanne_Sundfør.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "trust me",
+      "artist": "sunkis 宋秉勤",
+      "has_synced": false,
+      "path": "select/pl_01_trust_me_sunkis_宋秉勤.txt"
+    }
+  ]
+}
