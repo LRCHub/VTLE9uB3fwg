@@ -1,0 +1,49 @@
+# sunkis 宋秉勤 – trust me
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+想要妳聽到我的新歌
+最簡單的情歌
+有點笨的情歌 因為
+就怕妳覺得我只是說說的
+以為我在騙人
+感覺妳會誤認 我
+如果妳願意相信
+我的男子氣
+可以比一比一下了
+我也相信妳的心
+妳的孩子氣 girl
+So can you just trust me
+Trust me
+So I can just trust you
+Trust you
+And we can just trust free
+Trust free
+And I could just love you
+Love you
+想要問妳 信不信我的愛
+不是誰都能保護妳 因為愛
+如果妳問 信不信有真愛
+我只能說 試試看 我的愛
+我怕妳不懂我的性格
+最認真的性格
+最厲害的角色  因為
+妳說看起來像愛玩的男生
+以為我在騙人 感覺妳會誤認 我
+如果妳願意相信 我的男子氣
+可以比一比一下了
+我也相信妳的心 妳的孩子氣
+So can you just trust me
+Trust me
+So I can just trust you
+Trust you
+And we can just trust free
+Trust free
+And i could just love you
+Love you
+想要問妳 信不信我的愛
+不是誰都能保護妳 因為愛
+如果妳問 信不信有真愛
+我只能說 試試看 我的愛
+```
